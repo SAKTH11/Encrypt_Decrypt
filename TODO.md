@@ -1,9 +1,20 @@
-# TODO List
+# TODO - Encrypt & Decrypt Project
 
-- [x] Read and understand existing project files
-- [ ] Update `public/index.html` title to "EncDecy - Encrypt & Decrypt"
-- [ ] Create `src/ciphers.js` utility with cipher implementations
-- [ ] Rewrite `src/App.js` with complete encryption/decryption UI
-- [ ] Rewrite `src/App.css` with modern responsive styling
-- [ ] Test the application with `npm start`
+## Features
+- Add encryption functionality
+- Add decryption functionality
+- Support multiple cipher algorithms
+- Improve UI design
 
+## Improvements
+- Add error handling
+- Optimize performance
+- Add comments to code
+
+## Future Work
+- Add user authentication
+- Store encrypted data in database
+- Deploy the application
+
+## Status
+Project in progress 🚀
